@@ -17,3 +17,4 @@
 - Fourth attribute = savings account balance
 ---  
 #### Process: Insert Card Number => PIN => Select Account => See Balance/Deposit/Withdraw => Another Transaction?
+Implemented with console I/O
